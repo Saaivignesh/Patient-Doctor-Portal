@@ -1,6 +1,6 @@
 # Contributing to Patient-Doctor-Portal
 
-Thank you for your interest in contributing to Patient-Doctor-Portal! We welcome contributions from the community and appreciate your help in making this project better.
+Thank you for your interest in contributing to Patient-Doctor-Portal! We welcome any contributions from the community and appreciate your help in making this project better.
 
 ## Getting Started
 
